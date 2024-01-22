@@ -30,7 +30,7 @@ This project is a simple website showcasing my skills in web development. It inc
 2. Open the project in Visual Studio Code:
 
    cd simple-website
-   code.
+   code .
 
 ## Usage
 
