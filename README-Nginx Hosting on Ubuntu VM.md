@@ -68,4 +68,4 @@ Open a web browser and enter your VM's IP address (or domain name, if available)
 Congratulations! Your website is now hosted on an Nginx server and accessible to the public. If you encounter any issues, refer to the Nginx documentation or seek assistance from the community
 
 
-Feel free to customize this README file with your specific details and additional information as needed.
+Feel free to customize this README file with your specific details and additional information as needed
